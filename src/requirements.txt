@@ -1,3 +1,5 @@
 flask
 flaskenv
 Flask-SQLAlchemy
+validators
+python-dotenv
